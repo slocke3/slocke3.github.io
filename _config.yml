@@ -1,3 +1,17 @@
-theme: jekyll-theme-minima
 title: Simon Locke
+author: Simon Locke
 description: Mathematical physics and learning | PhD student at City University of New York Graduate Center
+theme: minima
+
+# Optional but recommended:
+show_excerpts: true
+
+# Use the Solarized color scheme:
+minima:
+  skin: solarized
+
+# Links that appear in the header or footer:
+social_links:
+  github: simonlocke
+  scholar: [your Google Scholar ID]
+  email: [yourname]@[youruniversity].edu
