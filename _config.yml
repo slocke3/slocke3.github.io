@@ -1,10 +1,10 @@
-title: Simon Locke
-author: Simon Locke
-description: Mathematical physics and learning | PhD student at City University of New York Graduate Center
+title: "Simon Locke"
+author: "Simon Locke"
+description: "Mathematical physics and learning — PhD student at City University of New York Graduate Center"
 
-theme: pages-themes/minima@v0.2.0
+# Use the GitHub Pages–approved version of Minima
+remote_theme: "pages-themes/minima@v0.2.0"
 
-# Optional but recommended:
 show_excerpts: true
 
 # Use the Solarized color scheme:
@@ -13,6 +13,7 @@ minima:
 
 # Links that appear in the header or footer:
 social_links:
-  github: simonlocke
-  scholar: [your Google Scholar ID]
-  email: [yourname]@[youruniversity].edu
+  - platform: github
+    user_url: "https://github.com/simonlocke"
+  - platform: email
+    user_url: "mailto:slocke@gradcenter.cuny.edu"
