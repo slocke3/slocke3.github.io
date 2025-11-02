@@ -1,7 +1,8 @@
 title: Simon Locke
 author: Simon Locke
 description: Mathematical physics and learning | PhD student at City University of New York Graduate Center
-theme: minima
+
+theme: pages-themes/minima@v0.2.0
 
 # Optional but recommended:
 show_excerpts: true
